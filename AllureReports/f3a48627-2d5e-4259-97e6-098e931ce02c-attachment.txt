@@ -1,8 +1,0 @@
-[33mWARNING [0m selenium.webdriver.common.selenium_manager:selenium_manager.py:137 The msedgedriver version (143.0.3650.96) detected in PATH at C:\Users\dipes\AppData\Local\Programs\Python\Python314\Scripts\msedgedriver.exe might not be compatible with the detected MicrosoftEdge version (144.0.3719.115); currently, msedgedriver 144.0.3719.115 is recommended for MicrosoftEdge 144.*, so it is advised to delete the driver in PATH and retry
-[32mINFO    [0m root:test_OrangeHRM_Login_DDT_002.py:37 OrangeHRM Login Page Opened
-[32mINFO    [0m root:test_OrangeHRM_Login_DDT_002.py:39 Number of rows is excel file 5
-[32mINFO    [0m root:test_OrangeHRM_Login_DDT_002.py:44 Opening Browser and getting https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
-[32mINFO    [0m root:test_OrangeHRM_Login_DDT_002.py:49 Entering username Admin
-[32mINFO    [0m root:test_OrangeHRM_Login_DDT_002.py:51 Entering username admin123
-[32mINFO    [0m root:test_OrangeHRM_Login_DDT_002.py:53 Clicking on login button
-[32mINFO    [0m root:test_OrangeHRM_Login_DDT_002.py:57 Login Successful
