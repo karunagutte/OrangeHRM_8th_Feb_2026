@@ -1,0 +1,285 @@
+2026-02-08 21:07:33,416 - selenium.webdriver.common.selenium_manager - WARNING - The msedgedriver version (143.0.3650.96) detected in PATH at C:\Users\dipes\AppData\Local\Programs\Python\Python314\Scripts\msedgedriver.exe might not be compatible with the detected MicrosoftEdge version (144.0.3719.115); currently, msedgedriver 144.0.3719.115 is recommended for MicrosoftEdge 144.*, so it is advised to delete the driver in PATH and retry
+2026-02-08 21:07:33,418 - selenium.webdriver.common.selenium_manager - WARNING - The msedgedriver version (143.0.3650.96) detected in PATH at C:\Users\dipes\AppData\Local\Programs\Python\Python314\Scripts\msedgedriver.exe might not be compatible with the detected MicrosoftEdge version (144.0.3719.115); currently, msedgedriver 144.0.3719.115 is recommended for MicrosoftEdge 144.*, so it is advised to delete the driver in PATH and retry
+2026-02-08 21:07:39,065 - root - INFO - Verify OrangeHRM Title
+2026-02-08 21:07:39,543 - root - INFO - Checking Login page
+2026-02-08 21:07:41,122 - root - INFO - Entering username
+2026-02-08 21:08:28,814 - root - INFO - Taking screenshot
+2026-02-08 21:08:29,337 - root - INFO - Login Test Completed
+2026-02-08 21:08:57,586 - root - INFO - Entering password
+2026-02-08 21:09:16,133 - root - INFO - Login Test Completed
+2026-02-08 21:32:39,549 - selenium.webdriver.common.selenium_manager -_process_logs- 137 - WARNING - The msedgedriver version (143.0.3650.96) detected in PATH at C:\Users\dipes\AppData\Local\Programs\Python\Python314\Scripts\msedgedriver.exe might not be compatible with the detected MicrosoftEdge version (144.0.3719.115); currently, msedgedriver 144.0.3719.115 is recommended for MicrosoftEdge 144.*, so it is advised to delete the driver in PATH and retry
+2026-02-08 21:32:39,550 - selenium.webdriver.common.selenium_manager -_process_logs- 137 - WARNING - The msedgedriver version (143.0.3650.96) detected in PATH at C:\Users\dipes\AppData\Local\Programs\Python\Python314\Scripts\msedgedriver.exe might not be compatible with the detected MicrosoftEdge version (144.0.3719.115); currently, msedgedriver 144.0.3719.115 is recommended for MicrosoftEdge 144.*, so it is advised to delete the driver in PATH and retry
+2026-02-08 21:32:49,630 - root -test_verify_OrangeHRM_url_001- 31 - INFO - Verify OrangeHRM Title
+2026-02-08 21:32:49,647 - root -test_OrangeHRM_Login_002- 58 - INFO - Checking Login page
+2026-02-08 21:32:58,454 - root -test_OrangeHRM_Login_002- 63 - INFO - Entering username
+2026-02-08 21:33:01,590 - root -test_OrangeHRM_Login_002- 67 - INFO - Entering password
+2026-02-08 21:33:01,610 - root -test_verify_OrangeHRM_url_001- 35 - INFO - Taking screenshot
+2026-02-08 21:33:02,563 - root -test_verify_OrangeHRM_url_001- 45 - INFO - Login Test Completed
+2026-02-08 21:33:19,441 - root -test_OrangeHRM_Login_002- 86 - INFO - Login Test Completed
+2026-02-08 22:33:46,205 - selenium.webdriver.common.selenium_manager -_process_logs- 137 - WARNING - The msedgedriver version (143.0.3650.96) detected in PATH at C:\Users\dipes\AppData\Local\Programs\Python\Python314\Scripts\msedgedriver.exe might not be compatible with the detected MicrosoftEdge version (144.0.3719.115); currently, msedgedriver 144.0.3719.115 is recommended for MicrosoftEdge 144.*, so it is advised to delete the driver in PATH and retry
+2026-02-08 22:33:46,205 - selenium.webdriver.common.selenium_manager -_process_logs- 137 - WARNING - The msedgedriver version (143.0.3650.96) detected in PATH at C:\Users\dipes\AppData\Local\Programs\Python\Python314\Scripts\msedgedriver.exe might not be compatible with the detected MicrosoftEdge version (144.0.3719.115); currently, msedgedriver 144.0.3719.115 is recommended for MicrosoftEdge 144.*, so it is advised to delete the driver in PATH and retry
+2026-02-08 22:33:46,230 - selenium.webdriver.common.selenium_manager -_process_logs- 137 - WARNING - The msedgedriver version (143.0.3650.96) detected in PATH at C:\Users\dipes\AppData\Local\Programs\Python\Python314\Scripts\msedgedriver.exe might not be compatible with the detected MicrosoftEdge version (144.0.3719.115); currently, msedgedriver 144.0.3719.115 is recommended for MicrosoftEdge 144.*, so it is advised to delete the driver in PATH and retry
+2026-02-08 22:33:46,230 - selenium.webdriver.common.selenium_manager -_process_logs- 137 - WARNING - The msedgedriver version (143.0.3650.96) detected in PATH at C:\Users\dipes\AppData\Local\Programs\Python\Python314\Scripts\msedgedriver.exe might not be compatible with the detected MicrosoftEdge version (144.0.3719.115); currently, msedgedriver 144.0.3719.115 is recommended for MicrosoftEdge 144.*, so it is advised to delete the driver in PATH and retry
+2026-02-08 22:33:46,265 - selenium.webdriver.common.selenium_manager -_process_logs- 137 - WARNING - The msedgedriver version (143.0.3650.96) detected in PATH at C:\Users\dipes\AppData\Local\Programs\Python\Python314\Scripts\msedgedriver.exe might not be compatible with the detected MicrosoftEdge version (144.0.3719.115); currently, msedgedriver 144.0.3719.115 is recommended for MicrosoftEdge 144.*, so it is advised to delete the driver in PATH and retry
+2026-02-08 22:33:46,265 - selenium.webdriver.common.selenium_manager -_process_logs- 137 - WARNING - The msedgedriver version (143.0.3650.96) detected in PATH at C:\Users\dipes\AppData\Local\Programs\Python\Python314\Scripts\msedgedriver.exe might not be compatible with the detected MicrosoftEdge version (144.0.3719.115); currently, msedgedriver 144.0.3719.115 is recommended for MicrosoftEdge 144.*, so it is advised to delete the driver in PATH and retry
+2026-02-08 22:33:55,657 - root -test_OrangeHRM_Login_002- 58 - INFO - Checking Login page
+2026-02-08 22:33:55,657 - root -test_OrangeHRM_Login_002- 58 - INFO - Checking Login page
+2026-02-08 22:33:57,758 - root -test_verify_OrangeHRM_url_001- 31 - INFO - Verify OrangeHRM Title
+2026-02-08 22:33:57,758 - root -test_verify_OrangeHRM_url_001- 31 - INFO - Verify OrangeHRM Title
+2026-02-08 22:34:04,997 - root -test_OrangeHRM_Login_DDT_003- 37 - INFO - OrangeHRM Login Page Opened
+2026-02-08 22:34:04,997 - root -test_OrangeHRM_Login_DDT_003- 37 - INFO - OrangeHRM Login Page Opened
+2026-02-08 22:34:11,574 - root -test_verify_OrangeHRM_url_001- 35 - INFO - Taking screenshot
+2026-02-08 22:34:11,574 - root -test_verify_OrangeHRM_url_001- 35 - INFO - Taking screenshot
+2026-02-08 22:34:11,885 - root -test_verify_OrangeHRM_url_001- 45 - INFO - Login Test Completed
+2026-02-08 22:34:11,885 - root -test_verify_OrangeHRM_url_001- 45 - INFO - Login Test Completed
+2026-02-08 22:34:16,149 - root -test_OrangeHRM_Login_002- 63 - INFO - Entering username
+2026-02-08 22:34:16,149 - root -test_OrangeHRM_Login_002- 63 - INFO - Entering username
+2026-02-08 22:34:18,090 - root -test_OrangeHRM_Login_002- 67 - INFO - Entering password
+2026-02-08 22:34:18,090 - root -test_OrangeHRM_Login_002- 67 - INFO - Entering password
+2026-02-08 22:34:36,888 - root -test_OrangeHRM_Login_002- 86 - INFO - Login Test Completed
+2026-02-08 22:34:36,888 - root -test_OrangeHRM_Login_002- 86 - INFO - Login Test Completed
+2026-02-08 22:35:24,287 - selenium.webdriver.common.selenium_manager -_process_logs- 137 - WARNING - The msedgedriver version (143.0.3650.96) detected in PATH at C:\Users\dipes\AppData\Local\Programs\Python\Python314\Scripts\msedgedriver.exe might not be compatible with the detected MicrosoftEdge version (144.0.3719.115); currently, msedgedriver 144.0.3719.115 is recommended for MicrosoftEdge 144.*, so it is advised to delete the driver in PATH and retry
+2026-02-08 22:35:24,287 - selenium.webdriver.common.selenium_manager -_process_logs- 137 - WARNING - The msedgedriver version (143.0.3650.96) detected in PATH at C:\Users\dipes\AppData\Local\Programs\Python\Python314\Scripts\msedgedriver.exe might not be compatible with the detected MicrosoftEdge version (144.0.3719.115); currently, msedgedriver 144.0.3719.115 is recommended for MicrosoftEdge 144.*, so it is advised to delete the driver in PATH and retry
+2026-02-08 22:35:24,288 - selenium.webdriver.common.selenium_manager -_process_logs- 137 - WARNING - The msedgedriver version (143.0.3650.96) detected in PATH at C:\Users\dipes\AppData\Local\Programs\Python\Python314\Scripts\msedgedriver.exe might not be compatible with the detected MicrosoftEdge version (144.0.3719.115); currently, msedgedriver 144.0.3719.115 is recommended for MicrosoftEdge 144.*, so it is advised to delete the driver in PATH and retry
+2026-02-08 22:35:24,288 - selenium.webdriver.common.selenium_manager -_process_logs- 137 - WARNING - The msedgedriver version (143.0.3650.96) detected in PATH at C:\Users\dipes\AppData\Local\Programs\Python\Python314\Scripts\msedgedriver.exe might not be compatible with the detected MicrosoftEdge version (144.0.3719.115); currently, msedgedriver 144.0.3719.115 is recommended for MicrosoftEdge 144.*, so it is advised to delete the driver in PATH and retry
+2026-02-08 22:35:24,314 - selenium.webdriver.common.selenium_manager -_process_logs- 137 - WARNING - The msedgedriver version (143.0.3650.96) detected in PATH at C:\Users\dipes\AppData\Local\Programs\Python\Python314\Scripts\msedgedriver.exe might not be compatible with the detected MicrosoftEdge version (144.0.3719.115); currently, msedgedriver 144.0.3719.115 is recommended for MicrosoftEdge 144.*, so it is advised to delete the driver in PATH and retry
+2026-02-08 22:35:24,314 - selenium.webdriver.common.selenium_manager -_process_logs- 137 - WARNING - The msedgedriver version (143.0.3650.96) detected in PATH at C:\Users\dipes\AppData\Local\Programs\Python\Python314\Scripts\msedgedriver.exe might not be compatible with the detected MicrosoftEdge version (144.0.3719.115); currently, msedgedriver 144.0.3719.115 is recommended for MicrosoftEdge 144.*, so it is advised to delete the driver in PATH and retry
+2026-02-08 22:35:33,176 - root -test_verify_OrangeHRM_url_001- 31 - INFO - Verify OrangeHRM Title
+2026-02-08 22:35:33,176 - root -test_verify_OrangeHRM_url_001- 31 - INFO - Verify OrangeHRM Title
+2026-02-08 22:35:33,357 - root -test_OrangeHRM_Login_002- 58 - INFO - Checking Login page
+2026-02-08 22:35:33,357 - root -test_OrangeHRM_Login_002- 58 - INFO - Checking Login page
+2026-02-08 22:35:36,077 - root -test_OrangeHRM_Login_002- 63 - INFO - Entering username
+2026-02-08 22:35:36,077 - root -test_OrangeHRM_Login_002- 63 - INFO - Entering username
+2026-02-08 22:35:44,531 - root -test_OrangeHRM_Login_002- 67 - INFO - Entering password
+2026-02-08 22:35:44,531 - root -test_OrangeHRM_Login_002- 67 - INFO - Entering password
+2026-02-08 22:35:50,165 - root -test_verify_OrangeHRM_url_001- 35 - INFO - Taking screenshot
+2026-02-08 22:35:50,165 - root -test_verify_OrangeHRM_url_001- 35 - INFO - Taking screenshot
+2026-02-08 22:35:50,568 - root -test_OrangeHRM_Login_DDT_003- 37 - INFO - OrangeHRM Login Page Opened
+2026-02-08 22:35:50,568 - root -test_OrangeHRM_Login_DDT_003- 37 - INFO - OrangeHRM Login Page Opened
+2026-02-08 22:35:50,599 - root -test_verify_OrangeHRM_url_001- 45 - INFO - Login Test Completed
+2026-02-08 22:35:50,599 - root -test_verify_OrangeHRM_url_001- 45 - INFO - Login Test Completed
+2026-02-08 22:35:50,753 - root -test_OrangeHRM_Login_DDT_003- 39 - INFO - Number of rows is excel file 5
+2026-02-08 22:35:50,753 - root -test_OrangeHRM_Login_DDT_003- 39 - INFO - Number of rows is excel file 5
+2026-02-08 22:35:52,126 - root -test_OrangeHRM_Login_DDT_003- 44 - INFO - Opening Browser and getting https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2026-02-08 22:35:52,126 - root -test_OrangeHRM_Login_DDT_003- 44 - INFO - Opening Browser and getting https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2026-02-08 22:35:52,212 - root -test_OrangeHRM_Login_DDT_003- 49 - INFO - Entering username Admin
+2026-02-08 22:35:52,212 - root -test_OrangeHRM_Login_DDT_003- 49 - INFO - Entering username Admin
+2026-02-08 22:35:53,249 - root -test_OrangeHRM_Login_DDT_003- 51 - INFO - Entering username admin123
+2026-02-08 22:35:53,249 - root -test_OrangeHRM_Login_DDT_003- 51 - INFO - Entering username admin123
+2026-02-08 22:35:53,565 - root -test_OrangeHRM_Login_DDT_003- 53 - INFO - Clicking on login button
+2026-02-08 22:35:53,565 - root -test_OrangeHRM_Login_DDT_003- 53 - INFO - Clicking on login button
+2026-02-08 22:35:55,537 - root -test_OrangeHRM_Login_DDT_003- 57 - INFO - Login Successful
+2026-02-08 22:35:55,537 - root -test_OrangeHRM_Login_DDT_003- 57 - INFO - Login Successful
+2026-02-08 22:36:01,041 - root -test_OrangeHRM_Login_002- 86 - INFO - Login Test Completed
+2026-02-08 22:36:01,041 - root -test_OrangeHRM_Login_002- 86 - INFO - Login Test Completed
+2026-02-08 22:37:36,988 - selenium.webdriver.common.selenium_manager -_process_logs- 137 - WARNING - The msedgedriver version (143.0.3650.96) detected in PATH at C:\Users\dipes\AppData\Local\Programs\Python\Python314\Scripts\msedgedriver.exe might not be compatible with the detected MicrosoftEdge version (144.0.3719.115); currently, msedgedriver 144.0.3719.115 is recommended for MicrosoftEdge 144.*, so it is advised to delete the driver in PATH and retry
+2026-02-08 22:37:36,918 - selenium.webdriver.common.selenium_manager -_process_logs- 137 - WARNING - The msedgedriver version (143.0.3650.96) detected in PATH at C:\Users\dipes\AppData\Local\Programs\Python\Python314\Scripts\msedgedriver.exe might not be compatible with the detected MicrosoftEdge version (144.0.3719.115); currently, msedgedriver 144.0.3719.115 is recommended for MicrosoftEdge 144.*, so it is advised to delete the driver in PATH and retry
+2026-02-08 22:37:36,988 - selenium.webdriver.common.selenium_manager -_process_logs- 137 - WARNING - The msedgedriver version (143.0.3650.96) detected in PATH at C:\Users\dipes\AppData\Local\Programs\Python\Python314\Scripts\msedgedriver.exe might not be compatible with the detected MicrosoftEdge version (144.0.3719.115); currently, msedgedriver 144.0.3719.115 is recommended for MicrosoftEdge 144.*, so it is advised to delete the driver in PATH and retry
+2026-02-08 22:37:51,191 - root -test_OrangeHRM_Login_002- 58 - INFO - Checking Login page
+2026-02-08 22:37:51,191 - root -test_OrangeHRM_Login_002- 58 - INFO - Checking Login page
+2026-02-08 22:37:52,121 - root -test_verify_OrangeHRM_url_001- 31 - INFO - Verify OrangeHRM Title
+2026-02-08 22:37:52,121 - root -test_verify_OrangeHRM_url_001- 31 - INFO - Verify OrangeHRM Title
+2026-02-08 22:37:59,263 - root -test_OrangeHRM_Login_DDT_003- 37 - INFO - OrangeHRM Login Page Opened
+2026-02-08 22:37:59,263 - root -test_OrangeHRM_Login_DDT_003- 37 - INFO - OrangeHRM Login Page Opened
+2026-02-08 22:37:59,333 - root -test_OrangeHRM_Login_DDT_003- 39 - INFO - Number of rows is excel file 5
+2026-02-08 22:37:59,333 - root -test_OrangeHRM_Login_DDT_003- 39 - INFO - Number of rows is excel file 5
+2026-02-08 22:37:59,807 - root -test_OrangeHRM_Login_002- 63 - INFO - Entering username
+2026-02-08 22:37:59,807 - root -test_OrangeHRM_Login_002- 63 - INFO - Entering username
+2026-02-08 22:38:00,352 - root -test_OrangeHRM_Login_DDT_003- 44 - INFO - Opening Browser and getting https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2026-02-08 22:38:00,352 - root -test_OrangeHRM_Login_DDT_003- 44 - INFO - Opening Browser and getting https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2026-02-08 22:38:00,394 - root -test_OrangeHRM_Login_DDT_003- 49 - INFO - Entering username Admin
+2026-02-08 22:38:00,394 - root -test_OrangeHRM_Login_DDT_003- 49 - INFO - Entering username Admin
+2026-02-08 22:38:02,921 - root -test_OrangeHRM_Login_002- 67 - INFO - Entering password
+2026-02-08 22:38:02,921 - root -test_OrangeHRM_Login_002- 67 - INFO - Entering password
+2026-02-08 22:38:02,986 - root -test_OrangeHRM_Login_DDT_003- 51 - INFO - Entering username admin123
+2026-02-08 22:38:02,986 - root -test_OrangeHRM_Login_DDT_003- 51 - INFO - Entering username admin123
+2026-02-08 22:38:03,448 - root -test_OrangeHRM_Login_DDT_003- 53 - INFO - Clicking on login button
+2026-02-08 22:38:03,448 - root -test_OrangeHRM_Login_DDT_003- 53 - INFO - Clicking on login button
+2026-02-08 22:38:04,406 - root -test_verify_OrangeHRM_url_001- 35 - INFO - Taking screenshot
+2026-02-08 22:38:04,406 - root -test_verify_OrangeHRM_url_001- 35 - INFO - Taking screenshot
+2026-02-08 22:38:04,830 - root -test_verify_OrangeHRM_url_001- 45 - INFO - Login Test Completed
+2026-02-08 22:38:04,830 - root -test_verify_OrangeHRM_url_001- 45 - INFO - Login Test Completed
+2026-02-08 22:38:06,601 - root -test_OrangeHRM_Login_DDT_003- 57 - INFO - Login Successful
+2026-02-08 22:38:06,601 - root -test_OrangeHRM_Login_DDT_003- 57 - INFO - Login Successful
+2026-02-08 22:38:21,311 - root -test_OrangeHRM_Login_002- 86 - INFO - Login Test Completed
+2026-02-08 22:38:21,311 - root -test_OrangeHRM_Login_002- 86 - INFO - Login Test Completed
+2026-02-08 22:39:44,397 - selenium.webdriver.common.selenium_manager -_process_logs- 137 - WARNING - The msedgedriver version (143.0.3650.96) detected in PATH at C:\Users\dipes\AppData\Local\Programs\Python\Python314\Scripts\msedgedriver.exe might not be compatible with the detected MicrosoftEdge version (144.0.3719.115); currently, msedgedriver 144.0.3719.115 is recommended for MicrosoftEdge 144.*, so it is advised to delete the driver in PATH and retry
+2026-02-08 22:39:44,397 - selenium.webdriver.common.selenium_manager -_process_logs- 137 - WARNING - The msedgedriver version (143.0.3650.96) detected in PATH at C:\Users\dipes\AppData\Local\Programs\Python\Python314\Scripts\msedgedriver.exe might not be compatible with the detected MicrosoftEdge version (144.0.3719.115); currently, msedgedriver 144.0.3719.115 is recommended for MicrosoftEdge 144.*, so it is advised to delete the driver in PATH and retry
+2026-02-08 22:39:44,413 - selenium.webdriver.common.selenium_manager -_process_logs- 137 - WARNING - The msedgedriver version (143.0.3650.96) detected in PATH at C:\Users\dipes\AppData\Local\Programs\Python\Python314\Scripts\msedgedriver.exe might not be compatible with the detected MicrosoftEdge version (144.0.3719.115); currently, msedgedriver 144.0.3719.115 is recommended for MicrosoftEdge 144.*, so it is advised to delete the driver in PATH and retry
+2026-02-08 22:39:44,413 - selenium.webdriver.common.selenium_manager -_process_logs- 137 - WARNING - The msedgedriver version (143.0.3650.96) detected in PATH at C:\Users\dipes\AppData\Local\Programs\Python\Python314\Scripts\msedgedriver.exe might not be compatible with the detected MicrosoftEdge version (144.0.3719.115); currently, msedgedriver 144.0.3719.115 is recommended for MicrosoftEdge 144.*, so it is advised to delete the driver in PATH and retry
+2026-02-08 22:39:44,453 - selenium.webdriver.common.selenium_manager -_process_logs- 137 - WARNING - The msedgedriver version (143.0.3650.96) detected in PATH at C:\Users\dipes\AppData\Local\Programs\Python\Python314\Scripts\msedgedriver.exe might not be compatible with the detected MicrosoftEdge version (144.0.3719.115); currently, msedgedriver 144.0.3719.115 is recommended for MicrosoftEdge 144.*, so it is advised to delete the driver in PATH and retry
+2026-02-08 22:39:44,453 - selenium.webdriver.common.selenium_manager -_process_logs- 137 - WARNING - The msedgedriver version (143.0.3650.96) detected in PATH at C:\Users\dipes\AppData\Local\Programs\Python\Python314\Scripts\msedgedriver.exe might not be compatible with the detected MicrosoftEdge version (144.0.3719.115); currently, msedgedriver 144.0.3719.115 is recommended for MicrosoftEdge 144.*, so it is advised to delete the driver in PATH and retry
+2026-02-08 22:39:55,479 - root -test_OrangeHRM_Login_002- 58 - INFO - Checking Login page
+2026-02-08 22:39:55,479 - root -test_OrangeHRM_Login_002- 58 - INFO - Checking Login page
+2026-02-08 22:39:56,352 - root -test_verify_OrangeHRM_url_001- 31 - INFO - Verify OrangeHRM Title
+2026-02-08 22:39:56,352 - root -test_verify_OrangeHRM_url_001- 31 - INFO - Verify OrangeHRM Title
+2026-02-08 22:39:57,641 - root -test_OrangeHRM_Login_DDT_003- 37 - INFO - OrangeHRM Login Page Opened
+2026-02-08 22:39:57,641 - root -test_OrangeHRM_Login_DDT_003- 37 - INFO - OrangeHRM Login Page Opened
+2026-02-08 22:39:57,672 - root -test_OrangeHRM_Login_DDT_003- 39 - INFO - Number of rows is excel file 5
+2026-02-08 22:39:57,672 - root -test_OrangeHRM_Login_DDT_003- 39 - INFO - Number of rows is excel file 5
+2026-02-08 22:40:03,647 - root -test_OrangeHRM_Login_002- 63 - INFO - Entering username
+2026-02-08 22:40:03,647 - root -test_OrangeHRM_Login_002- 63 - INFO - Entering username
+2026-02-08 22:40:06,862 - root -test_OrangeHRM_Login_002- 67 - INFO - Entering password
+2026-02-08 22:40:06,862 - root -test_OrangeHRM_Login_002- 67 - INFO - Entering password
+2026-02-08 22:40:08,793 - root -test_verify_OrangeHRM_url_001- 35 - INFO - Taking screenshot
+2026-02-08 22:40:08,793 - root -test_verify_OrangeHRM_url_001- 35 - INFO - Taking screenshot
+2026-02-08 22:40:08,929 - root -test_OrangeHRM_Login_DDT_003- 44 - INFO - Opening Browser and getting https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2026-02-08 22:40:08,929 - root -test_OrangeHRM_Login_DDT_003- 44 - INFO - Opening Browser and getting https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2026-02-08 22:40:08,977 - root -test_OrangeHRM_Login_DDT_003- 49 - INFO - Entering username Admin
+2026-02-08 22:40:08,977 - root -test_OrangeHRM_Login_DDT_003- 49 - INFO - Entering username Admin
+2026-02-08 22:40:09,335 - root -test_verify_OrangeHRM_url_001- 45 - INFO - Login Test Completed
+2026-02-08 22:40:09,335 - root -test_verify_OrangeHRM_url_001- 45 - INFO - Login Test Completed
+2026-02-08 22:40:12,343 - root -test_OrangeHRM_Login_DDT_003- 51 - INFO - Entering username admin123
+2026-02-08 22:40:12,343 - root -test_OrangeHRM_Login_DDT_003- 51 - INFO - Entering username admin123
+2026-02-08 22:40:12,837 - root -test_OrangeHRM_Login_DDT_003- 53 - INFO - Clicking on login button
+2026-02-08 22:40:12,837 - root -test_OrangeHRM_Login_DDT_003- 53 - INFO - Clicking on login button
+2026-02-08 22:40:16,286 - root -test_OrangeHRM_Login_DDT_003- 57 - INFO - Login Successful
+2026-02-08 22:40:16,286 - root -test_OrangeHRM_Login_DDT_003- 57 - INFO - Login Successful
+2026-02-08 22:40:16,851 - root -test_OrangeHRM_Login_DDT_003- 72 - INFO - All test cases passed
+2026-02-08 22:40:16,851 - root -test_OrangeHRM_Login_DDT_003- 72 - INFO - All test cases passed
+2026-02-08 22:40:19,104 - root -test_OrangeHRM_Login_DDT_003- 44 - INFO - Opening Browser and getting https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2026-02-08 22:40:19,104 - root -test_OrangeHRM_Login_DDT_003- 44 - INFO - Opening Browser and getting https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2026-02-08 22:40:19,167 - root -test_OrangeHRM_Login_DDT_003- 49 - INFO - Entering username Admin
+2026-02-08 22:40:19,167 - root -test_OrangeHRM_Login_DDT_003- 49 - INFO - Entering username Admin
+2026-02-08 22:40:25,127 - root -test_OrangeHRM_Login_002- 86 - INFO - Login Test Completed
+2026-02-08 22:40:25,127 - root -test_OrangeHRM_Login_002- 86 - INFO - Login Test Completed
+2026-02-08 22:47:22,752 - selenium.webdriver.common.selenium_manager -_process_logs- 137 - WARNING - The msedgedriver version (143.0.3650.96) detected in PATH at C:\Users\dipes\AppData\Local\Programs\Python\Python314\Scripts\msedgedriver.exe might not be compatible with the detected MicrosoftEdge version (144.0.3719.115); currently, msedgedriver 144.0.3719.115 is recommended for MicrosoftEdge 144.*, so it is advised to delete the driver in PATH and retry
+2026-02-08 22:47:22,752 - selenium.webdriver.common.selenium_manager -_process_logs- 137 - WARNING - The msedgedriver version (143.0.3650.96) detected in PATH at C:\Users\dipes\AppData\Local\Programs\Python\Python314\Scripts\msedgedriver.exe might not be compatible with the detected MicrosoftEdge version (144.0.3719.115); currently, msedgedriver 144.0.3719.115 is recommended for MicrosoftEdge 144.*, so it is advised to delete the driver in PATH and retry
+2026-02-08 22:47:28,900 - root -test_OrangeHRM_Login_DDT_003- 37 - INFO - OrangeHRM Login Page Opened
+2026-02-08 22:47:28,900 - root -test_OrangeHRM_Login_DDT_003- 37 - INFO - OrangeHRM Login Page Opened
+2026-02-08 22:47:28,954 - root -test_OrangeHRM_Login_DDT_003- 39 - INFO - Number of rows is excel file 5
+2026-02-08 22:47:28,954 - root -test_OrangeHRM_Login_DDT_003- 39 - INFO - Number of rows is excel file 5
+2026-02-08 22:47:36,489 - root -test_OrangeHRM_Login_DDT_003- 44 - INFO - Opening Browser and getting https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2026-02-08 22:47:36,489 - root -test_OrangeHRM_Login_DDT_003- 44 - INFO - Opening Browser and getting https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2026-02-08 22:47:36,538 - root -test_OrangeHRM_Login_DDT_003- 49 - INFO - Entering username Admin
+2026-02-08 22:47:36,538 - root -test_OrangeHRM_Login_DDT_003- 49 - INFO - Entering username Admin
+2026-02-08 22:47:38,751 - root -test_OrangeHRM_Login_DDT_003- 51 - INFO - Entering username admin123
+2026-02-08 22:47:38,751 - root -test_OrangeHRM_Login_DDT_003- 51 - INFO - Entering username admin123
+2026-02-08 22:47:39,280 - root -test_OrangeHRM_Login_DDT_003- 53 - INFO - Clicking on login button
+2026-02-08 22:47:39,280 - root -test_OrangeHRM_Login_DDT_003- 53 - INFO - Clicking on login button
+2026-02-08 22:47:41,491 - root -test_OrangeHRM_Login_DDT_003- 57 - INFO - Login Successful
+2026-02-08 22:47:41,491 - root -test_OrangeHRM_Login_DDT_003- 57 - INFO - Login Successful
+2026-02-08 22:47:41,761 - root -test_OrangeHRM_Login_DDT_003- 72 - INFO - All test cases passed
+2026-02-08 22:47:41,761 - root -test_OrangeHRM_Login_DDT_003- 72 - INFO - All test cases passed
+2026-02-08 22:47:43,649 - root -test_OrangeHRM_Login_DDT_003- 44 - INFO - Opening Browser and getting https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2026-02-08 22:47:43,649 - root -test_OrangeHRM_Login_DDT_003- 44 - INFO - Opening Browser and getting https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2026-02-08 22:47:43,728 - root -test_OrangeHRM_Login_DDT_003- 49 - INFO - Entering username Admin
+2026-02-08 22:47:43,728 - root -test_OrangeHRM_Login_DDT_003- 49 - INFO - Entering username Admin
+2026-02-08 22:50:36,496 - root -test_OrangeHRM_Login_DDT_003- 31 - INFO - OrangeHRM Login Page Opened
+2026-02-08 22:50:36,496 - root -test_OrangeHRM_Login_DDT_003- 31 - INFO - OrangeHRM Login Page Opened
+2026-02-08 22:50:36,619 - root -test_OrangeHRM_Login_DDT_003- 33 - INFO - Number of rows is excel file 5
+2026-02-08 22:50:36,619 - root -test_OrangeHRM_Login_DDT_003- 33 - INFO - Number of rows is excel file 5
+2026-02-08 22:50:38,331 - root -test_OrangeHRM_Login_DDT_003- 38 - INFO - Opening Browser and getting https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2026-02-08 22:50:38,331 - root -test_OrangeHRM_Login_DDT_003- 38 - INFO - Opening Browser and getting https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2026-02-08 22:50:38,377 - root -test_OrangeHRM_Login_DDT_003- 43 - INFO - Entering username Admin
+2026-02-08 22:50:38,377 - root -test_OrangeHRM_Login_DDT_003- 43 - INFO - Entering username Admin
+2026-02-08 22:50:40,492 - root -test_OrangeHRM_Login_DDT_003- 45 - INFO - Entering username admin123
+2026-02-08 22:50:40,492 - root -test_OrangeHRM_Login_DDT_003- 45 - INFO - Entering username admin123
+2026-02-08 22:50:40,682 - root -test_OrangeHRM_Login_DDT_003- 47 - INFO - Clicking on login button
+2026-02-08 22:50:40,682 - root -test_OrangeHRM_Login_DDT_003- 47 - INFO - Clicking on login button
+2026-02-08 22:50:43,737 - root -test_OrangeHRM_Login_DDT_003- 51 - INFO - Login Successful
+2026-02-08 22:50:43,737 - root -test_OrangeHRM_Login_DDT_003- 51 - INFO - Login Successful
+2026-02-08 22:50:44,090 - root -test_OrangeHRM_Login_DDT_003- 66 - INFO - All test cases passed
+2026-02-08 22:50:44,090 - root -test_OrangeHRM_Login_DDT_003- 66 - INFO - All test cases passed
+2026-02-08 22:50:47,932 - root -test_OrangeHRM_Login_DDT_003- 38 - INFO - Opening Browser and getting https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2026-02-08 22:50:47,932 - root -test_OrangeHRM_Login_DDT_003- 38 - INFO - Opening Browser and getting https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2026-02-08 22:50:48,049 - root -test_OrangeHRM_Login_DDT_003- 43 - INFO - Entering username Admin
+2026-02-08 22:50:48,049 - root -test_OrangeHRM_Login_DDT_003- 43 - INFO - Entering username Admin
+2026-02-08 22:53:29,234 - root -test_OrangeHRM_Login_DDT_003- 31 - INFO - OrangeHRM Login Page Opened
+2026-02-08 22:53:29,234 - root -test_OrangeHRM_Login_DDT_003- 31 - INFO - OrangeHRM Login Page Opened
+2026-02-08 22:53:29,351 - root -test_OrangeHRM_Login_DDT_003- 33 - INFO - Number of rows is excel file 5
+2026-02-08 22:53:29,351 - root -test_OrangeHRM_Login_DDT_003- 33 - INFO - Number of rows is excel file 5
+2026-02-08 22:53:31,231 - root -test_OrangeHRM_Login_DDT_003- 38 - INFO - Opening Browser and getting https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2026-02-08 22:53:31,231 - root -test_OrangeHRM_Login_DDT_003- 38 - INFO - Opening Browser and getting https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2026-02-08 22:53:31,281 - root -test_OrangeHRM_Login_DDT_003- 43 - INFO - Entering username Admin
+2026-02-08 22:53:31,281 - root -test_OrangeHRM_Login_DDT_003- 43 - INFO - Entering username Admin
+2026-02-08 22:53:32,546 - root -test_OrangeHRM_Login_DDT_003- 45 - INFO - Entering username admin123
+2026-02-08 22:53:32,546 - root -test_OrangeHRM_Login_DDT_003- 45 - INFO - Entering username admin123
+2026-02-08 22:53:32,752 - root -test_OrangeHRM_Login_DDT_003- 47 - INFO - Clicking on login button
+2026-02-08 22:53:32,752 - root -test_OrangeHRM_Login_DDT_003- 47 - INFO - Clicking on login button
+2026-02-08 22:53:35,416 - root -test_OrangeHRM_Login_DDT_003- 51 - INFO - Login Successful
+2026-02-08 22:53:35,416 - root -test_OrangeHRM_Login_DDT_003- 51 - INFO - Login Successful
+2026-02-08 22:53:35,505 - root -test_OrangeHRM_Login_DDT_003- 66 - INFO - All test cases passed
+2026-02-08 22:53:35,505 - root -test_OrangeHRM_Login_DDT_003- 66 - INFO - All test cases passed
+2026-02-08 22:53:39,573 - root -test_OrangeHRM_Login_DDT_003- 38 - INFO - Opening Browser and getting https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2026-02-08 22:53:39,573 - root -test_OrangeHRM_Login_DDT_003- 38 - INFO - Opening Browser and getting https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2026-02-08 22:53:39,790 - root -test_OrangeHRM_Login_DDT_003- 43 - INFO - Entering username Admin
+2026-02-08 22:53:39,790 - root -test_OrangeHRM_Login_DDT_003- 43 - INFO - Entering username Admin
+2026-02-08 22:59:45,910 - root -test_OrangeHRM_Login_DDT_003- 31 - INFO - OrangeHRM Login Page Opened
+2026-02-08 22:59:45,910 - root -test_OrangeHRM_Login_DDT_003- 31 - INFO - OrangeHRM Login Page Opened
+2026-02-08 22:59:46,011 - root -test_OrangeHRM_Login_DDT_003- 33 - INFO - Number of rows is excel file 5
+2026-02-08 22:59:46,011 - root -test_OrangeHRM_Login_DDT_003- 33 - INFO - Number of rows is excel file 5
+2026-02-08 22:59:47,593 - root -test_OrangeHRM_Login_DDT_003- 38 - INFO - Opening Browser and getting https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2026-02-08 22:59:47,593 - root -test_OrangeHRM_Login_DDT_003- 38 - INFO - Opening Browser and getting https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2026-02-08 22:59:47,655 - root -test_OrangeHRM_Login_DDT_003- 43 - INFO - Entering username Admin
+2026-02-08 22:59:47,655 - root -test_OrangeHRM_Login_DDT_003- 43 - INFO - Entering username Admin
+2026-02-08 22:59:48,624 - root -test_OrangeHRM_Login_DDT_003- 45 - INFO - Entering username admin123
+2026-02-08 22:59:48,624 - root -test_OrangeHRM_Login_DDT_003- 45 - INFO - Entering username admin123
+2026-02-08 22:59:48,700 - root -test_OrangeHRM_Login_DDT_003- 47 - INFO - Clicking on login button
+2026-02-08 22:59:48,700 - root -test_OrangeHRM_Login_DDT_003- 47 - INFO - Clicking on login button
+2026-02-08 22:59:54,475 - root -test_OrangeHRM_Login_DDT_003- 54 - INFO - Login Successful
+2026-02-08 22:59:54,475 - root -test_OrangeHRM_Login_DDT_003- 54 - INFO - Login Successful
+2026-02-08 22:59:54,666 - root -test_OrangeHRM_Login_DDT_003- 72 - INFO - All test cases passed
+2026-02-08 22:59:54,666 - root -test_OrangeHRM_Login_DDT_003- 72 - INFO - All test cases passed
+2026-02-08 22:59:55,982 - root -test_OrangeHRM_Login_DDT_003- 38 - INFO - Opening Browser and getting https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2026-02-08 22:59:55,982 - root -test_OrangeHRM_Login_DDT_003- 38 - INFO - Opening Browser and getting https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2026-02-08 22:59:56,021 - root -test_OrangeHRM_Login_DDT_003- 43 - INFO - Entering username Admin
+2026-02-08 22:59:56,021 - root -test_OrangeHRM_Login_DDT_003- 43 - INFO - Entering username Admin
+2026-02-08 22:59:56,363 - root -test_OrangeHRM_Login_DDT_003- 45 - INFO - Entering username admin123
+2026-02-08 22:59:56,363 - root -test_OrangeHRM_Login_DDT_003- 45 - INFO - Entering username admin123
+2026-02-08 22:59:56,501 - root -test_OrangeHRM_Login_DDT_003- 47 - INFO - Clicking on login button
+2026-02-08 22:59:56,501 - root -test_OrangeHRM_Login_DDT_003- 47 - INFO - Clicking on login button
+2026-02-08 23:12:00,667 - root -test_OrangeHRM_Login_DDT_003- 31 - INFO - OrangeHRM Login Page Opened
+2026-02-08 23:12:00,667 - root -test_OrangeHRM_Login_DDT_003- 31 - INFO - OrangeHRM Login Page Opened
+2026-02-08 23:12:00,782 - root -test_OrangeHRM_Login_DDT_003- 33 - INFO - Number of rows is excel file 5
+2026-02-08 23:12:00,782 - root -test_OrangeHRM_Login_DDT_003- 33 - INFO - Number of rows is excel file 5
+2026-02-08 23:12:02,694 - root -test_OrangeHRM_Login_DDT_003- 38 - INFO - Opening Browser and getting https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2026-02-08 23:12:02,694 - root -test_OrangeHRM_Login_DDT_003- 38 - INFO - Opening Browser and getting https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2026-02-08 23:12:02,775 - root -test_OrangeHRM_Login_DDT_003- 43 - INFO - Entering username Admin
+2026-02-08 23:12:02,775 - root -test_OrangeHRM_Login_DDT_003- 43 - INFO - Entering username Admin
+2026-02-08 23:12:03,222 - root -test_OrangeHRM_Login_DDT_003- 45 - INFO - Entering username admin123
+2026-02-08 23:12:03,222 - root -test_OrangeHRM_Login_DDT_003- 45 - INFO - Entering username admin123
+2026-02-08 23:12:03,434 - root -test_OrangeHRM_Login_DDT_003- 47 - INFO - Clicking on login button
+2026-02-08 23:12:03,434 - root -test_OrangeHRM_Login_DDT_003- 47 - INFO - Clicking on login button
+2026-02-08 23:12:06,433 - root -test_OrangeHRM_Login_DDT_003- 51 - INFO - Login Successful for Username=Admin
+2026-02-08 23:12:06,433 - root -test_OrangeHRM_Login_DDT_003- 51 - INFO - Login Successful for Username=Admin
+2026-02-08 23:12:09,742 - root -test_OrangeHRM_Login_DDT_003- 80 - INFO - All test cases passed
+2026-02-08 23:12:09,742 - root -test_OrangeHRM_Login_DDT_003- 80 - INFO - All test cases passed
+2026-02-08 23:12:10,562 - root -test_OrangeHRM_Login_DDT_003- 38 - INFO - Opening Browser and getting https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2026-02-08 23:12:10,562 - root -test_OrangeHRM_Login_DDT_003- 38 - INFO - Opening Browser and getting https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2026-02-08 23:12:10,602 - root -test_OrangeHRM_Login_DDT_003- 43 - INFO - Entering username Admin
+2026-02-08 23:12:10,602 - root -test_OrangeHRM_Login_DDT_003- 43 - INFO - Entering username Admin
+2026-02-08 23:12:11,271 - root -test_OrangeHRM_Login_DDT_003- 45 - INFO - Entering username admin123
+2026-02-08 23:12:11,271 - root -test_OrangeHRM_Login_DDT_003- 45 - INFO - Entering username admin123
+2026-02-08 23:12:11,331 - root -test_OrangeHRM_Login_DDT_003- 47 - INFO - Clicking on login button
+2026-02-08 23:12:11,331 - root -test_OrangeHRM_Login_DDT_003- 47 - INFO - Clicking on login button
+2026-02-08 23:12:17,843 - root -test_OrangeHRM_Login_DDT_003- 63 - INFO - Login unsuccessful for Username=Administrator
+2026-02-08 23:12:17,843 - root -test_OrangeHRM_Login_DDT_003- 63 - INFO - Login unsuccessful for Username=Administrator
+2026-02-08 23:12:18,669 - root -test_OrangeHRM_Login_DDT_003- 80 - INFO - All test cases passed
+2026-02-08 23:12:18,669 - root -test_OrangeHRM_Login_DDT_003- 80 - INFO - All test cases passed
+2026-02-08 23:12:19,898 - root -test_OrangeHRM_Login_DDT_003- 38 - INFO - Opening Browser and getting https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2026-02-08 23:12:19,898 - root -test_OrangeHRM_Login_DDT_003- 38 - INFO - Opening Browser and getting https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2026-02-08 23:12:19,950 - root -test_OrangeHRM_Login_DDT_003- 43 - INFO - Entering username Admin
+2026-02-08 23:12:19,950 - root -test_OrangeHRM_Login_DDT_003- 43 - INFO - Entering username Admin
+2026-02-08 23:12:20,660 - root -test_OrangeHRM_Login_DDT_003- 45 - INFO - Entering username admin123
+2026-02-08 23:12:20,660 - root -test_OrangeHRM_Login_DDT_003- 45 - INFO - Entering username admin123
+2026-02-08 23:12:20,882 - root -test_OrangeHRM_Login_DDT_003- 47 - INFO - Clicking on login button
+2026-02-08 23:12:20,882 - root -test_OrangeHRM_Login_DDT_003- 47 - INFO - Clicking on login button
+2026-02-08 23:12:27,804 - root -test_OrangeHRM_Login_DDT_003- 63 - INFO - Login unsuccessful for Username=Admin
+2026-02-08 23:12:27,804 - root -test_OrangeHRM_Login_DDT_003- 63 - INFO - Login unsuccessful for Username=Admin
+2026-02-08 23:12:27,977 - root -test_OrangeHRM_Login_DDT_003- 80 - INFO - All test cases passed
+2026-02-08 23:12:27,977 - root -test_OrangeHRM_Login_DDT_003- 80 - INFO - All test cases passed
+2026-02-08 23:12:28,872 - root -test_OrangeHRM_Login_DDT_003- 38 - INFO - Opening Browser and getting https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2026-02-08 23:12:28,872 - root -test_OrangeHRM_Login_DDT_003- 38 - INFO - Opening Browser and getting https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2026-02-08 23:12:28,910 - root -test_OrangeHRM_Login_DDT_003- 43 - INFO - Entering username Admin
+2026-02-08 23:12:28,910 - root -test_OrangeHRM_Login_DDT_003- 43 - INFO - Entering username Admin
+2026-02-08 23:12:29,589 - root -test_OrangeHRM_Login_DDT_003- 45 - INFO - Entering username admin123
+2026-02-08 23:12:29,589 - root -test_OrangeHRM_Login_DDT_003- 45 - INFO - Entering username admin123
+2026-02-08 23:12:29,644 - root -test_OrangeHRM_Login_DDT_003- 47 - INFO - Clicking on login button
+2026-02-08 23:12:29,644 - root -test_OrangeHRM_Login_DDT_003- 47 - INFO - Clicking on login button
+2026-02-08 23:12:36,020 - root -test_OrangeHRM_Login_DDT_003- 63 - INFO - Login unsuccessful for Username=Admin12
+2026-02-08 23:12:36,020 - root -test_OrangeHRM_Login_DDT_003- 63 - INFO - Login unsuccessful for Username=Admin12
+2026-02-08 23:12:36,203 - root -test_OrangeHRM_Login_DDT_003- 80 - INFO - All test cases passed
+2026-02-08 23:12:36,203 - root -test_OrangeHRM_Login_DDT_003- 80 - INFO - All test cases passed
+2026-02-08 23:12:36,204 - root -test_OrangeHRM_Login_DDT_003- 85 - INFO - All test cases completed
+2026-02-08 23:12:36,204 - root -test_OrangeHRM_Login_DDT_003- 85 - INFO - All test cases completed
