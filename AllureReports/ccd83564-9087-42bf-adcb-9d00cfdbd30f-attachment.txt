@@ -1,0 +1,3 @@
+[32mINFO    [0m root:test_OrangeHRM_Login_001.py:98 Checking Login page
+[32mINFO    [0m root:test_OrangeHRM_Login_001.py:103 Entering username
+[32mINFO    [0m root:test_OrangeHRM_Login_001.py:107 Entering password
