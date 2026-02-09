@@ -16,6 +16,12 @@ class Test_OrangeHRM_Login_001:
     username=ReadConfig.get_username()
     password=ReadConfig.get_password()
     login_url=ReadConfig.get_login_url()
+    new_username=ReadConfig.get_new_username()
+    new_password=ReadConfig.get_new_password()
+    confirm_password=ReadConfig.get_confirm_password()
+    employee_name=ReadConfig.get_employee_name()
+
+
 
     log=log_generator_class.log_gen_method()
 
@@ -52,6 +58,7 @@ class Test_OrangeHRM_Login_001:
     @pytest.mark.sanity
     @pytest.mark.smoke
     @pytest.mark.falky(rerun=1)
+
     def test_OrangeHRM_Login_002(self):
          #self.driver.get("https://opensource-demo.orangehrmlive.com/web/index.php/auth/login")
          #Read data from ReadConfig file
@@ -83,7 +90,40 @@ class Test_OrangeHRM_Login_001:
              allure.attach.file("Screenshots\\test_login_unsuccessful.png")
              assert False
 
-         self.log.info("Login Test Completed")
+
+
+    def test_OrangeHRM_Add_user_004(self):
+            self.log.info("Adding new user")
+            self.driver.get(self.login_url)
+            login_page = Login_Page_class(self.driver)
+            login_page.Enter_username(self.username)
+            login_page.Enter_password(self.password)
+            login_page.Login_button_click()
+
+            #Add user
+            login_page.click_admin()
+            self.log.info("Admin Page Opened")
+            login_page.click_add_user()
+            self.log.info("Add user page Opened")
+            login_page.select_user_role()
+            self.log.info("Selected user role")
+            login_page.enter_employee_name(self.employee_name)
+            self.log.info("Enter employee_name")
+            login_page.select_status()
+            self.log.info("select status")
+            login_page.enter_username(self.new_username)
+            self.log.info("username entered")
+            login_page.Enter_password(self.new_password)
+            self.log.info("password entered")
+            login_page.confirm_Password(self.confirm_password)
+            self.log.info("confirm password entered")
+
+            self.driver.save_screenshot("Screenshots\\new_user.png")
+            login_page.click_save()
+            login_page.menu_button_click()
+            login_page.logout_button_click()
+
+
 
 
 

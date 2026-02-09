@@ -1,0 +1,1 @@
+[32mINFO    [0m root:test_OrangeHRM_Login_001.py:96 Adding new user

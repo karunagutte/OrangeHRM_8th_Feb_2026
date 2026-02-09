@@ -15,3 +15,19 @@ class ReadConfig:
     @staticmethod
     def get_login_url():
         return config.get("urls","login_url")
+
+    @staticmethod
+    def get_new_username():
+        return config.get("New_User","new_username")
+
+    @staticmethod
+    def get_new_password():
+        return config.get("New_User", "new_password")
+
+    @staticmethod
+    def get_confirm_password():
+        return config.get("New_User", "confirm_password")
+
+    @staticmethod
+    def get_employee_name():
+        return config.get("New_User", "employee_name")
